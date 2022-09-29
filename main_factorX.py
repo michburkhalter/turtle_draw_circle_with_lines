@@ -3,7 +3,7 @@ import turtle
 
 radius = 300
 start_angle = 90
-factor = 8
+factor = 5
 rotation_degrees = 360 * factor
 nbr_of_points = 300 * factor
 
